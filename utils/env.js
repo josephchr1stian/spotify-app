@@ -1,8 +1,8 @@
 import { Platform } from "react-native";
 
 // ***** TODO: Fill in your constants here ***** //
-const CLIENT_ID = ""; // TODO: Replace this with your Spotify app's client ID
-const REDIRECT_URI = ""; // TODO: Replace this with your own redirect URI
+const CLIENT_ID = "5468762d1c154cecb86e0ae43ad72bd0"; // TODO: Replace this with your Spotify app's client ID
+const REDIRECT_URI = "exp://hg_vud0-anonymous-8081.exp.direct"; // TODO: Replace this with your own redirect URI
 const ALBUM_ID = "2nLOHgzXzwFEpl62zAgCEC?si=92gvi84ZTLKfMD-YgYWAUw"; // By default, this is the Weeknd's Album's "DAWN FM"
 // ********************************************* //
 
